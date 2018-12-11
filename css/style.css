@@ -405,11 +405,20 @@ body {
 .blocktph{
 	width: 100vw;
 	height: 1000px;
-	background-image: url(../img/8.png);
+	background-image: url(../img/6767.png);
 	position: absolute;
 	top: 4214px;
 	background-repeat: no-repeat;
 	background-size: 100%;
+}
+.tph{
+	width: 100vw;
+	height: 1000px;
+	background-image: url(../img/121212.png);
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 62vw;
+	top: 8vw;
 }
 .pt{
 	position: absolute;
@@ -458,4 +467,27 @@ body {
 	height: 20px;
 	background-size: 12px;
 	padding: 8px;
+}
+.white-block{
+	position: absolute;
+	top: 272vw;
+	width: 100vw;
+	height: 1000px;
+	background-color: white;
+}
+.pt11{
+	text-align: center;
+	font-size: 10vw;
+	color: #D7D7D7;
+	position: absolute;
+	left: 47vw;
+	top: -9vw;
+}
+.pt12{
+	text-align: center;
+font-size: 37pt;
+color: black;
+position: absolute;
+left: 44vw;
+top: 3vw;
 }
